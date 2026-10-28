@@ -1,0 +1,35 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*~
+.~*
+~$*
+*.swp
+*.tmp
+*.bak
+
+# Local user data, research inputs, and generated outputs
+local/
+private/
+inputs/
+outputs/
+.reading_work/
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+*.zip
+
+# Credentials and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python caches if local utilities are used
+__pycache__/
+*.py[cod]
+.venv/

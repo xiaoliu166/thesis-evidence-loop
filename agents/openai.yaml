@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文证据闭环"
+  short_description: "按六个分块推进论文选题、文献、报告与写作，附人工核对事项及十四份产出模板"
+  default_prompt: "使用 $thesis-evidence-loop，结合我的论文要求和已有材料，识别当前阶段并完成下一项研究产出。"
